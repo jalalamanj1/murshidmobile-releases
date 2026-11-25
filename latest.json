@@ -1,10 +1,10 @@
 {
-  "version": "3.2.0",
-  "versionCode": 18,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.0.apk",
-  "notes": "الإصدار 3.2.0: إصلاح خطأ الاتصال بمستودعات GitHub عبر مصادقة الطلبات ورفع حد الطلبات.",
-  "publishedAt": "2026-11-25T10:34:39.065Z",
-  "size": 5400176,
-  "sha256": "9eb34d3d13a817562f9bd202a5b28b7a5de9afb867013fd6d29001646987da17",
+  "version": "3.2.1",
+  "versionCode": 19,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.1.apk",
+  "notes": "الإصدار 3.2.1: إصلاح الاتصال بمستودعات GitHub — قراءة فورية للمخاطبات والملفات دون حد الطلبات، وتحديث الأغلفة كل دقيقتين.",
+  "publishedAt": "2026-11-25T10:41:56.034Z",
+  "size": 5400174,
+  "sha256": "792b750d1728c4bc475e8f5a5d03107da3eb3c44b52b6828c961198a2b50306d",
   "mandatory": false
 }
