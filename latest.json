@@ -1,10 +1,10 @@
 {
-  "version": "3.2.4",
-  "versionCode": 22,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.4.apk",
-  "notes": "الإصدار 3.2.4: إزالة بطاقة الإصدار من الإعدادات، وعرض العنوان والوصف كاملاً في مخاطبات التربية والملفات، مع نافذة تفاصيل فيها فتح وحفظ ومشاركة.",
-  "publishedAt": "2026-11-25T11:03:16.957Z",
-  "size": 5400979,
-  "sha256": "d03605702bfce20f967cb8d2482a8efff550fc02e525dccc42dd87cc6b80c215",
+  "version": "3.2.5",
+  "versionCode": 23,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.5.apk",
+  "notes": "الإصدار 3.2.5: تحسينات أمان — مزامنة أخف عبر الشبكة، شاشة استرداد عند أي خطأ غير متوقع، ونسخة احتياطية تلقائية قبل تثبيت التحديث.",
+  "publishedAt": "2026-11-25T12:24:33.664Z",
+  "size": 5401567,
+  "sha256": "04a68f9d2cc49608fd1ee0195c20dd5c27fe1e961d9086fefc59c7eac236c118",
   "mandatory": false
 }

@@ -82,7 +82,11 @@ async function sendPush(accessToken, title, body) {
       }),
     }
   );
-  if (!res.ok) console.error(`FCM ${res.status}: ${await res.text()}`);
+  if (!res.ok) {
+    console.error(`FCM ${res.status}: ${await res.text()}`);
+    return false;
+  }
+  return true;
 }
 
 async function listRepoFiles(repo) {
@@ -170,10 +174,17 @@ async function latestVersion() {
     }
 
     const accessToken = await getAccessToken();
+    let sent = 0;
+    let failed = 0;
     for (const item of items) {
-      await sendPush(accessToken, item.title, item.body);
+      if (await sendPush(accessToken, item.title, item.body)) sent += 1;
+      else failed += 1;
     }
-    console.log(`Sent ${items.length} notification(s) for ${pending.length} change(s).`);
+    console.log(`Sent ${sent} notification(s), ${failed} failed, ${pending.length} change(s).`);
+    if (sent === 0 && failed > 0) {
+      // Nothing reached the phone: fail the job so it is visible in Actions.
+      process.exitCode = 1;
+    }
   } else {
     console.log('No changes.');
   }

@@ -1,0 +1,45 @@
+name: Keep services alive
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: murshid-keepalive
+  cancel-in-progress: false
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Health checks
+        run: node scripts/keepalive.cjs
+
+      # Runs even when a check fails, so the repository never goes 60 days
+      # without a commit (GitHub disables scheduled workflows after that).
+      - name: Keep the repository active
+        if: always()
+        run: |
+          date -u +%Y-%m-%d > .keepalive
+          if [ -n "$(git status --porcelain .keepalive)" ]; then
+            git config user.name "murshid-keepalive"
+            git config user.email "actions@github.com"
+            git add .keepalive
+            git commit -m "chore: keepalive"
+            git pull --rebase origin main || true
+            git push origin HEAD:main
+          fi
