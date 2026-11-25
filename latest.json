@@ -1,10 +1,10 @@
 {
-  "version": "3.3.0",
-  "versionCode": 24,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.0.apk",
-  "notes": "الإصدار 3.3.0: المساعد الذكي، وإضافة النشاط اليومي بالصوت مع صياغة مهنية تلقائية، وزر إضافة سريع في الرئيسية.",
-  "publishedAt": "2026-11-25T20:55:48.363Z",
-  "size": 5411192,
-  "sha256": "ff00bf8a7a08e382e0f13f5931482fb051d9f7f0a623a5f67306e4bed830d0c4",
+  "version": "3.3.1",
+  "versionCode": 25,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.1.apk",
+  "notes": "الإصدار 3.3.1: إصلاح التسجيل الصوتي وإظهار سبب أي خطأ في التعرف على الصوت، ومعالجة تلقائية للنص بعد الإنهاء.",
+  "publishedAt": "2026-11-25T21:02:43.920Z",
+  "size": 5409139,
+  "sha256": "468e01c8bf2ccb662bf3070c36ab47af71bb7e858f63485d89c586c66bfe0c4e",
   "mandatory": false
 }
