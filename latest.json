@@ -1,10 +1,10 @@
 {
-  "version": "3.2.3",
-  "versionCode": 21,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.3.apk",
-  "notes": "الإصدار 3.2.3: إصلاح تكرار التنبيهات (تنبيه واحد لكل جديد)، وإصلاح عرض رقم الإصدار بعد التثبيت، وتحسين إشعارات التحديث.",
-  "publishedAt": "2026-11-25T10:57:29.421Z",
-  "size": 5400604,
-  "sha256": "d6598ef876bea50b58f10c53a1e03da9f7b06e64870886109548c949d0d23b0b",
+  "version": "3.2.4",
+  "versionCode": 22,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.4.apk",
+  "notes": "الإصدار 3.2.4: إزالة بطاقة الإصدار من الإعدادات، وعرض العنوان والوصف كاملاً في مخاطبات التربية والملفات، مع نافذة تفاصيل فيها فتح وحفظ ومشاركة.",
+  "publishedAt": "2026-11-25T11:03:16.957Z",
+  "size": 5400979,
+  "sha256": "d03605702bfce20f967cb8d2482a8efff550fc02e525dccc42dd87cc6b80c215",
   "mandatory": false
 }
