@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "versionCode": 12,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-2.0.0.apk",
+  "notes": "الإصدار 2.0.0: إزالة الإجراءات السريعة، مجلد Murshid للنسخ الاحتياطي الصامت مع جدولة يومي/أسبوعي/شهري، تحديث الوثائق القانونية، وقفل اسم التفعيل، ودعم التحديث التلقائي.",
+  "publishedAt": "2026-11-25T08:07:44.236Z",
+  "size": 4744444,
+  "sha256": "88e8230d1369704d1b648250ad38a388c585d8a2bb1b4df53055a706b56b13e2",
+  "mandatory": false
+}
