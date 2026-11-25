@@ -1,10 +1,10 @@
 {
-  "version": "2.3.0",
-  "versionCode": 15,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-2.3.0.apk",
-  "notes": "الإصدار 2.3.0: أغلفة أسرع بصور مصغرة، إزالة التكرار، طباعة أصلية عبر نافذة النظام مع تعبئة الحقول، وإمكانية تعديل نوع المدرسة.",
-  "publishedAt": "2026-11-25T08:44:56.906Z",
-  "size": 4748225,
-  "sha256": "91247aa9b1712b6d346ab49f7d1ce243563b5cd4307641e0543c9ab0ac0405c8",
+  "version": "3.1.0",
+  "versionCode": 17,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.1.0.apk",
+  "notes": "الإصدار 3.1.0: هوية جديدة online.jalalamanj.murshid، إشعارات فورية ونظامية، إشعارات Firebase تعمل والتطبيق مغلق، وطباعة أصلية للأغلفة.",
+  "publishedAt": "2026-11-25T10:11:53.926Z",
+  "size": 5400017,
+  "sha256": "b3164a31efde2367f100e597e6c0f164949c5be53577827f96205e6a6017481b",
   "mandatory": false
 }
