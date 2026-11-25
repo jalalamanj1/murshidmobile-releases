@@ -1,10 +1,10 @@
 {
-  "version": "3.1.0",
-  "versionCode": 17,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.1.0.apk",
-  "notes": "الإصدار 3.1.0: هوية جديدة online.jalalamanj.murshid، إشعارات فورية ونظامية، إشعارات Firebase تعمل والتطبيق مغلق، وطباعة أصلية للأغلفة.",
-  "publishedAt": "2026-11-25T10:11:53.926Z",
-  "size": 5400017,
-  "sha256": "b3164a31efde2367f100e597e6c0f164949c5be53577827f96205e6a6017481b",
+  "version": "3.2.0",
+  "versionCode": 18,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.2.0.apk",
+  "notes": "الإصدار 3.2.0: إصلاح خطأ الاتصال بمستودعات GitHub عبر مصادقة الطلبات ورفع حد الطلبات.",
+  "publishedAt": "2026-11-25T10:34:39.065Z",
+  "size": 5400176,
+  "sha256": "9eb34d3d13a817562f9bd202a5b28b7a5de9afb867013fd6d29001646987da17",
   "mandatory": false
 }
