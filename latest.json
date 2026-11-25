@@ -1,10 +1,10 @@
 {
-  "version": "2.2.0",
-  "versionCode": 14,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-2.2.0.apk",
-  "notes": "الإصدار 2.2.0: تنبيهات للمكتبات والتحديثات، فحص تلقائي كل 5 ثوانٍ، عدّاد تنبيهات في الترويسة، العام الدراسي والساعة الحية في لوحة التحكم.",
-  "publishedAt": "2026-11-25T08:32:23.984Z",
-  "size": 4747024,
-  "sha256": "908bdda4af3360b2f37ba76e48d33e8e7de4eb946ba3925d313b77f51d9c924a",
+  "version": "2.3.0",
+  "versionCode": 15,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-2.3.0.apk",
+  "notes": "الإصدار 2.3.0: أغلفة أسرع بصور مصغرة، إزالة التكرار، طباعة أصلية عبر نافذة النظام مع تعبئة الحقول، وإمكانية تعديل نوع المدرسة.",
+  "publishedAt": "2026-11-25T08:44:56.906Z",
+  "size": 4748225,
+  "sha256": "91247aa9b1712b6d346ab49f7d1ce243563b5cd4307641e0543c9ab0ac0405c8",
   "mandatory": false
 }
