@@ -159,11 +159,21 @@ async function latestVersion() {
   }
 
   if (pending.length > 0) {
+    // One message per new item, but never flood the phone: a big batch becomes
+    // a single summary notification.
+    const items = pending.slice(0, 5);
+    if (pending.length > 5) {
+      items.push({
+        title: 'جديد في مرشد',
+        body: `${pending.length} عنصر جديد — افتح التطبيق للمزيد.`,
+      });
+    }
+
     const accessToken = await getAccessToken();
-    for (const item of pending) {
+    for (const item of items) {
       await sendPush(accessToken, item.title, item.body);
     }
-    console.log(`Sent ${pending.length} notification(s).`);
+    console.log(`Sent ${items.length} notification(s) for ${pending.length} change(s).`);
   } else {
     console.log('No changes.');
   }
