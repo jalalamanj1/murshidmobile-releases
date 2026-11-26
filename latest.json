@@ -1,10 +1,10 @@
 {
-  "version": "3.3.1",
-  "versionCode": 25,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.1.apk",
-  "notes": "الإصدار 3.3.1: إصلاح التسجيل الصوتي وإظهار سبب أي خطأ في التعرف على الصوت، ومعالجة تلقائية للنص بعد الإنهاء.",
-  "publishedAt": "2026-11-25T21:02:43.920Z",
-  "size": 5409139,
-  "sha256": "468e01c8bf2ccb662bf3070c36ab47af71bb7e858f63485d89c586c66bfe0c4e",
+  "version": "3.3.2",
+  "versionCode": 26,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.2.apk",
+  "notes": "الإصدار 3.3.2: البحث عن الطالب في السجلات وإضافة طالب جديد بالاسم مباشرة، مع إضافته تلقائياً إلى قائمة الطلاب.",
+  "publishedAt": "2026-11-26T06:37:07.061Z",
+  "size": 5410172,
+  "sha256": "026ee508581c0a7d400992a42b76e080eb822fe93374310b2498fbd67be0557e",
   "mandatory": false
 }
