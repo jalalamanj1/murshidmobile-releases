@@ -1,10 +1,10 @@
 {
-  "version": "3.3.2",
-  "versionCode": 26,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.2.apk",
-  "notes": "الإصدار 3.3.2: البحث عن الطالب في السجلات وإضافة طالب جديد بالاسم مباشرة، مع إضافته تلقائياً إلى قائمة الطلاب.",
-  "publishedAt": "2026-11-26T06:37:07.061Z",
-  "size": 5410172,
-  "sha256": "026ee508581c0a7d400992a42b76e080eb822fe93374310b2498fbd67be0557e",
+  "version": "3.3.3",
+  "versionCode": 27,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.3.apk",
+  "notes": "الإصدار 3.3.3: الاسم الثلاثي مستقل عن طلب التفعيل، المستندات القانونية الرسمية مع قسم الذكاء الاصطناعي، وتصدير سجلات الحالات الخاصة الثلاث في ملف واحد.",
+  "publishedAt": "2026-11-27T14:35:55.378Z",
+  "size": 5411286,
+  "sha256": "95fc529b3905c16b93692acf99734ecddc85707996c51bcc13788f1648ec0352",
   "mandatory": false
 }
