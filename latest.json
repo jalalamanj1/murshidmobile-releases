@@ -1,10 +1,10 @@
 {
-  "version": "3.3.3",
-  "versionCode": 27,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.3.3.apk",
-  "notes": "الإصدار 3.3.3: الاسم الثلاثي مستقل عن طلب التفعيل، المستندات القانونية الرسمية مع قسم الذكاء الاصطناعي، وتصدير سجلات الحالات الخاصة الثلاث في ملف واحد.",
-  "publishedAt": "2026-11-27T14:35:55.378Z",
-  "size": 5411286,
-  "sha256": "95fc529b3905c16b93692acf99734ecddc85707996c51bcc13788f1648ec0352",
+  "version": "3.4.0",
+  "versionCode": 28,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.4.0.apk",
+  "notes": "الإصدار 3.4.0: مظهر داكن مريح للعين، ودعم المساعد الذكي والتسجيل الصوتي بالعربية والإنجليزية والكردية.",
+  "publishedAt": "2026-11-27T14:48:58.261Z",
+  "size": 5412783,
+  "sha256": "5cd8152dc5fa19ff499119203805499139f2ab900f564cf24053cf6a2ef314d1",
   "mandatory": false
 }
