@@ -1,10 +1,10 @@
 {
-  "version": "3.4.0",
-  "versionCode": 28,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.4.0.apk",
-  "notes": "الإصدار 3.4.0: مظهر داكن مريح للعين، ودعم المساعد الذكي والتسجيل الصوتي بالعربية والإنجليزية والكردية.",
-  "publishedAt": "2026-11-27T14:48:58.261Z",
-  "size": 5412783,
-  "sha256": "5cd8152dc5fa19ff499119203805499139f2ab900f564cf24053cf6a2ef314d1",
+  "version": "3.7.0",
+  "versionCode": 34,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.7.0.apk",
+  "notes": "الإصدار 3.7.0: قوائم المواد الجديدة، إصلاح قراءة الشعبة من ملفات Word، تعديل عناوين أعمدة الدرجات، حفظ فوري لبيانات الطالب، وعودة زر الرجوع إلى قائمة الخيارات.",
+  "publishedAt": "2026-11-27T17:05:32.859Z",
+  "size": 6363579,
+  "sha256": "c534557f7de6de9a8f7dadc5b478e52029dc4617020c562e2398f9fd99b4abea",
   "mandatory": false
 }
