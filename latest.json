@@ -1,10 +1,10 @@
 {
-  "version": "3.8.0",
-  "versionCode": 35,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.8.0.apk",
-  "notes": "الإصدار 3.8.0: تعرّف ذكي على الصف والشعبة عند الاستيراد، ترقيم الصفوف 7-12، مظهر تلقائي، تصدير قائمة الطلبة وبطاقة الطالب، ومنع تحديد النص.",
-  "publishedAt": "2026-11-28T17:35:43.515Z",
-  "size": 6365161,
-  "sha256": "17c1ba7170fed1755d824f0e4273e5888f86baa34727f560ecaaa3752339153e",
+  "version": "3.9.3",
+  "versionCode": 39,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.9.3.apk",
+  "notes": "تحديث مرشد",
+  "publishedAt": "2026-11-28T18:01:00.127Z",
+  "size": 6365843,
+  "sha256": "6f15a451280c1df5145429b3f544b90a8771d56e0d590e3576c20189e5dffcce",
   "mandatory": false
 }
