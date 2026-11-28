@@ -1,10 +1,10 @@
 {
-  "version": "3.7.0",
-  "versionCode": 34,
-  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.7.0.apk",
-  "notes": "الإصدار 3.7.0: قوائم المواد الجديدة، إصلاح قراءة الشعبة من ملفات Word، تعديل عناوين أعمدة الدرجات، حفظ فوري لبيانات الطالب، وعودة زر الرجوع إلى قائمة الخيارات.",
-  "publishedAt": "2026-11-27T17:05:32.859Z",
-  "size": 6363579,
-  "sha256": "c534557f7de6de9a8f7dadc5b478e52029dc4617020c562e2398f9fd99b4abea",
+  "version": "3.8.0",
+  "versionCode": 35,
+  "apkUrl": "https://raw.githubusercontent.com/jalalamanj1/murshidmobile-releases/main/Murshid-Phone-3.8.0.apk",
+  "notes": "الإصدار 3.8.0: تعرّف ذكي على الصف والشعبة عند الاستيراد، ترقيم الصفوف 7-12، مظهر تلقائي، تصدير قائمة الطلبة وبطاقة الطالب، ومنع تحديد النص.",
+  "publishedAt": "2026-11-28T17:35:43.515Z",
+  "size": 6365161,
+  "sha256": "17c1ba7170fed1755d824f0e4273e5888f86baa34727f560ecaaa3752339153e",
   "mandatory": false
 }
